@@ -1,2 +1,2 @@
-# Twister716-s-JP-Translations-for-Minecraft-mods
-A repository of Japanese localization files and resource packs for various mods, created by Twister716.
+# Twister716の本棚
+私Twister716が提供する、様々なMinecraft Modたちの日本語化リソースパックの総合ソース&問題トラッカーリポジトリです。
